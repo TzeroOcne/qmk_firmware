@@ -16,6 +16,8 @@
 
 #pragma once
 
+// #define DYNAMIC_KEYMAP_LAYER_COUNT 6
+
 #ifdef LED_MATRIX_ENABLE
 /* LED matrix driver configuration */
 #    define DRIVER_COUNT 1
